@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Full-Stack Developer, currently focused on Frontend. 
+
 <!--
 **brunoalves21/brunoalves21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
