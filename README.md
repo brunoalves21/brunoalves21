@@ -1,6 +1,6 @@
 <h1 align="center">
     Bruno Alves ® - Web Developer
-  <img src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/brunoalves.gif" alt="Bruno Alves aka Kalinka" />
+  <!-- <img src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/logo/brunoalves.gif" alt="Bruno Alves aka Kalinka" /> -->
 </h1>
 <div align="center" style="display:inline_block"><br>
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
