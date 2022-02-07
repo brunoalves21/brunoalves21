@@ -37,8 +37,7 @@
 
 
 ## ☎️ Get in Touch
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@brunustxt](https://twitter.com/martonlederer) on Twitter
+- [@brunustxt](https://twitter.com/brunustxt) on Twitter
 - [@21brunoalves](https://twitter.com/instagram) on Instagram
 - [jamesbond#2121](./) on Discord
 
