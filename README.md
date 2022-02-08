@@ -12,7 +12,6 @@
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/php-original.svg" alt="PHP"/>
 <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
 <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
-<img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/inertia.svg" alt="Inertia.js"/>
 </div>
 
 
