@@ -6,6 +6,8 @@
     <img width="30" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/html5-original.svg" />
     <img width="30" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/css3.svg" />
     <img width="30" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/sass.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/tailwindcss-plain.svg" />
+    <img width="30" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/laravel-2.svg" />
 </div>
 
 
