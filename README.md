@@ -9,7 +9,7 @@
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/javascript.svg" alt="JavaScript"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/vuejs-original.svg" alt="Vuejs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/laravel-2.svg" alt="Laravel"/>
-    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/php-original.svg" alt="PHP"/>
+    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/new-php-logo.svg" alt="PHP"/>
 <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
 <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
 </div>
