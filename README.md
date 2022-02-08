@@ -6,12 +6,13 @@
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/html5-original.svg" alt="HTML5"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/css3.svg" alt="CSS3"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/tailwindcss-plain.svg" alt="Tailwind CSS"/>
+<img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/bootstrap-original.svg" alt="Bootstrap"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/javascript.svg" alt="JavaScript"/>
+    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/vuejs-original.svg" alt="Vuejs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/laravel-2.svg" alt="Laravel"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/php-original.svg" alt="PHP"/>
-<img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
-<img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
+    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
 </div>
 
 
@@ -31,10 +32,11 @@
 
 ## ⚙️ Tecnologies & Utils
 - NodeJs, Inertia.js, NuxtJS, Alpine.js
-- Twig
+- Forge
 - Rest API, JSON
 - MongoDB
 - GIT
+- Twig
 
 ## ⚒️ Tools 
 - PHPStorm (Main), VisualCode, Dreamweaver
