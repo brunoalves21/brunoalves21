@@ -24,9 +24,9 @@
 - 👥 Team member and employee at [@devoteam](https://www.devoteam.com/)
 
 ## 🥷 Skills
-- 👨‍💻 PHP, Javascript, JQuery
+- 👨‍💻 PHP, Javascript, JQuery, Blade, Twig
 - ⚙️ Laravel, VueJs, Bootstrap, Tailwind CSS
-- 👁️ Blade, HTML/HTML5, SASS, CSS/CSS3
+- 👁️ HTML/HTML5, SASS, CSS/CSS3
 - 💽 MySQL
 - 👜 Wordpress, Shopify
 
@@ -36,7 +36,6 @@
 - Rest API, JSON
 - MongoDB
 - GIT
-- Twig
 
 ## ⚒️ Tools 
 - PHPStorm (Main), VisualCode, Dreamweaver
