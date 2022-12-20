@@ -10,6 +10,7 @@
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/javascript.svg" alt="JavaScript"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/vuejs-original.svg" alt="Vuejs"/>
+    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/react-js-icon.svg" alt="Reactjs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/laravel-2.svg" alt="Laravel"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/php-original.svg" alt="PHP"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
@@ -18,30 +19,33 @@
 
 ## About Me! 👋
 
-- 🤖 Bruno Alves aka Kalinka aka jamesbond, 
-- 👨 26 years old
-- ‍👨‍💻 Full Stack Developer
+- 🤖 Bruno Alves
+- 👨 27 years old
+- ‍👨‍💻 Web Developer
 - 👥 Team member and employee at [@devoteam](https://www.devoteam.com/)
 
 ## 🥷 Skills
-- 👨‍💻 PHP, Javascript, JQuery, Blade, Twig
-- ⚙️ Laravel, VueJs, Bootstrap, Tailwind CSS
+- ⚙️ Vuejs, Reactjs, Javascript, JQuery
+- 🛠 NodeJs, Inertia.js, NuxtJS, NEXT.js Alpine.js
+- 👨‍💻 PHP, Laravel (Filament, Jetstream), MySQL, Blade, Twig
+- 👨‍🎨 Tailwindcss, Bootstrap CSS, MUI
 - 👁️ HTML/HTML5, SASS, CSS/CSS3
-- 💽 MySQL
+
+## 🧙‍♂️ Other Skills
+- 🕵️‍♂️ SEO
 - 👜 Wordpress, Shopify
 
 ## ⚙️ Tecnologies & Utils
-- NodeJs, Inertia.js, NuxtJS, Alpine.js
+- GIT
 - Forge
 - Rest API, JSON
 - MongoDB
-- GIT
 
-## ⚒️ Tools 
-- PHPStorm (Main), VisualCode, Dreamweaver
+## ⚒️ Tools
+- PHPStorm (Main), VisualCode
 - Postman
-- MAMP Pro, Docker, Lando
-- Github, Bitbucket
+- MAMP Pro, Docker Desktop, Lando, DBngin, PHP Monitor
+- Github, Bitbucket, JIRA, Figma
 
 
 ## ☎️ Get in Touch
