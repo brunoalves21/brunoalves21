@@ -9,8 +9,9 @@
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/bootstrap-original.svg" alt="Bootstrap"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/javascript.svg" alt="JavaScript"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/nodejs-original.svg" alt="NodeJs"/>
-    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/vuejs-original.svg" alt="Vuejs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/react-js-icon.svg" alt="Reactjs"/>
+ <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/ts-icon.svg" alt="TypeScript"/>
+    <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/vuejs-original.svg" alt="Vuejs"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/laravel-2.svg" alt="Laravel"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/php-original.svg" alt="PHP"/>
     <img width="30" style="padding-right: 7px" src="https://raw.githubusercontent.com/brunoalves21/brunoalves21/master/images/icons/mysql-original.svg" alt="MYSQL"/>
@@ -21,11 +22,11 @@
 
 - 🤖 Bruno Alves
 - 👨 27 years old
-- ‍👨‍💻 Web Developer
+- ‍👨‍💻 7 years of Web Developer
 - 👥 Team member and employee at [@devoteam](https://www.devoteam.com/)
 
 ## 🥷 Skills
-- ⚙️ Vuejs, Reactjs, Javascript, JQuery
+- ⚙️ Vuejs, Reactjs, Javascript, JQuery, Typescript
 - 🛠 NodeJs, Inertia.js, NuxtJS, NEXT.js Alpine.js
 - 👨‍💻 PHP, Laravel (Filament, Jetstream), MySQL, Blade, Twig
 - 👨‍🎨 Tailwindcss, Bootstrap CSS, MUI
