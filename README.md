@@ -21,14 +21,14 @@
 ## About Me! 👋
 
 - 🤖 Bruno Alves
-- 👨 27 years old
-- ‍👨‍💻 7 years of Web Developer
+- 👨 28 years old
+- ‍👨‍💻 +9 years of Web Developer
 - 👥 Team member and employee at [@devoteam](https://www.devoteam.com/)
 
 ## 🥷 Skills
 - ⚙️ Vuejs, Reactjs, Javascript, JQuery, Typescript
 - 🛠 NodeJs, Inertia.js, NuxtJS, NEXT.js Alpine.js
-- 👨‍💻 PHP, Laravel (Filament, Jetstream), MySQL, Blade, Twig
+- 👨‍💻 PHP, Laravel (including Filament & Jetstream), MySQL, Blade, Twig
 - 👨‍🎨 Tailwindcss, Bootstrap CSS, MUI
 - 👁️ HTML/HTML5, SASS, CSS/CSS3
 
@@ -40,7 +40,6 @@
 - GIT
 - Forge
 - Rest API, JSON
-- MongoDB
 
 ## ⚒️ Tools
 - PHPStorm (Main), VisualCode
