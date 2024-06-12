@@ -42,11 +42,10 @@
 - Rest API, JSON
 
 ## ⚒️ Tools
-- PHPStorm (Main), VisualCode
-- Postman
-- MAMP Pro, Docker Desktop, Lando, DBngin, PHP Monitor
+- PHPStorm, VisualCode
+- DBngin, PHP Monitor, TablePlus
 - Github, Bitbucket, JIRA, Figma
-
+- Postman
 
 ## ☎️ Get in Touch
 - [@brunustxt](https://twitter.com/brunustxt) on Twitter
